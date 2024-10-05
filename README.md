@@ -18,12 +18,10 @@ A simple, user-friendly To-Do List application that helps you manage and organiz
 1. Clone the repository:
    ```bash
    git clone https://github.com//todo-list.git](https://github.com/kaif13/To-Do-List
-2. Open `index.html` in a browser.
-  
-## Usage
-- **Add Task**: Enter a task and click "Add".
-- **Complete Task**: Click the checkbox.
-- **Delete Task**: Click the trash icon.
 
-## License
-MIT License
+ ## Usage
+- **Add Task**: Enter a task and click "Add" or press "Enter".
+- **Complete Task**: Click the checkbox.
+- **Delete Task**: Click the cut ("X") icon.
+
+
